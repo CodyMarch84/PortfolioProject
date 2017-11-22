@@ -1,0 +1,16 @@
+img {
+  width: 100%;
+  height: 165px;
+  background-image: url('image/aboutme.jpg');
+  background-size: cover;
+}
+.homeBody{
+  background-size: cover;
+  background-image: url('image/keyboard.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.fontSize{
+  font-size: 
+}
